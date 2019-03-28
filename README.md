@@ -1,3 +1,3 @@
-# js-ajamvr
+webpack-demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-ajamvr)
+Just for study purpose
